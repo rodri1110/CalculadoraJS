@@ -15,6 +15,7 @@ class CalculatorController{
 
     get displayCalc(){
         return this._displayCalcEl.innerHTML;
+        
     }
 
     set displayCalc(value){
